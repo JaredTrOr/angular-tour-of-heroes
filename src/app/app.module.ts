@@ -9,6 +9,11 @@ import { HeroDetailComponent } from './hero-detail/hero-detail.component';
 import { MessagesComponent } from './messages/messages.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
 
+// ng build --configuration production --aot 
+// hostings: 
+// netlify
+// tonohost
+
 @NgModule({
   declarations: [
     AppComponent,
